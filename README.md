@@ -51,7 +51,7 @@ A gamified and personalized account area.
 * **Profile Customization:** Users can upload avatars and update personal details (contact info, location, preferences).
 * **Security:** A secure pop-up flow for changing account passwords.
 
-![Profile and Loyalty System](assets/cont.gif)
+![Profile and Loyalty System](assets/cont_client.gif)
 
 ---
 
