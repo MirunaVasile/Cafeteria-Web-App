@@ -21,6 +21,8 @@ A smooth and secure entry point into the application.
 
 ![Authentication Flow](assets/login_client.gif) 
 
+---
+
 ### Home Page & Client Dashboard
 The landing experience, showcasing the restaurant and providing essential information.
 * **Interactive Showcase:** Dynamic, customizable sliders present the restaurant's atmosphere and signature dishes.
@@ -30,13 +32,17 @@ The landing experience, showcasing the restaurant and providing essential inform
 
 ![Home Page Presentation](assets/home_client.gif)
 
+---
+
 ### Advanced Reservation System
 A streamlined, visual approach to booking a table.
 * **Two-Step Booking:** Users first select the date, time, party size, and add special requests.
 * **Interactive Floor Plan:** Clients view a visual map of the restaurant (Window, Interior, Terrace) with real-time availability indicators (Green = Free, Red = Occupied) to pick their exact table.
 * **Reservation Management:** A dedicated "My Reservations" panel allows users to track booking status (e.g., PENDING, ACCEPTED), view details, modify times, or cancel active requests.
 
-![Reservation Process](assets/rezervari.gif)
+![Reservation Process](assets/rezervare_client.gif)
+
+---
 
 ### User Profile & Loyalty Program
 A gamified and personalized account area.
@@ -46,6 +52,8 @@ A gamified and personalized account area.
 * **Security:** A secure pop-up flow for changing account passwords.
 
 ![Profile and Loyalty System](assets/cont.gif)
+
+---
 
 ### Administration Dashboard
 A powerful back-office suite for restaurant management and staff.
